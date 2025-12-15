@@ -1,6 +1,6 @@
 <hr />
 <ul>
-  <li>Used huffman encoding to compress BMP images, with pixel level encoding</li>
+  <li>Used huffman encoding to compress BMP images, with pixel level encoding using C</li>
   <li>Implemented frequency analysis and Huffman tree construction for RGB channels, including bit-level packing of variable-length codes for efficient storage</li>
   <li>Added a configurable quality/loss factor, adjusting color-space quantization to balance compression ratio and fidelity.</li>
 </ul>
